@@ -1,0 +1,1 @@
+from . import mahasiswa, mk, khs, kelas

@@ -1,0 +1,9 @@
+"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
+"access_mahasiswa_user","Access Mahasiswa for User Sales","model_nilai_mahasiswa","sales_team.group_sale_salesman_all_leads",1,1,1,0
+"access_mahasiswa_admin","Access Mahasiswa for Admin","model_nilai_mahasiswa","sales_team.group_sale_manager",1,1,1,1
+"access_mk_user","Access MK for User Sales","model_nilai_mk","sales_team.group_sale_salesman_all_leads",1,1,1,0
+"access_mk_admin","Access MK for Admin","model_nilai_mk","sales_team.group_sale_manager",1,1,1,1
+"access_khs_user","Access KHS for User Sales","model_nilai_khs","sales_team.group_sale_salesman_all_leads",1,1,1,0
+"access_khs_admin","Access KHS for Admin","model_nilai_khs","sales_team.group_sale_manager",1,1,1,1
+"access_kelas_user","Access Kelas for User Sales","model_nilai_kelas","sales_team.group_sale_salesman_all_leads",1,1,1,0
+"access_kelas_admin","Access Kelas for Admin","model_nilai_kelas","sales_team.group_sale_manager",1,1,1,1
